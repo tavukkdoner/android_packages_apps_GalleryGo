@@ -5,7 +5,7 @@
            fetch="https://github.com/tavukkdoner"
            revision="lineage-21" />
 
-<project path="packages/apps/GalleryGo" name="android_packages_apps_GalleryGo" remote="tavukkdoner" revision="inherit" />
+<project path="packages/apps/GalleryGo" name="android_packages_apps_GalleryGo" remote="tavukkdoner" revision="main" />
 ```
 
 # Add following in device.mk
