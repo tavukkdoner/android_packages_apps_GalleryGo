@@ -1,0 +1,11 @@
+android_app_import {
+	name: "GoogleGalleryGo",
+	owner: "google",
+	apk: "prebuilt/GalleryGo.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: false,
+	product_specific: true,
+}
