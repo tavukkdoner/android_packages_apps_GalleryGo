@@ -16,3 +16,5 @@ $(call inherit-product, packages/apps/GalleryGo/config.mk)
 ```
 
 Source of APK: https://apkpure.com/gallery/com.google.android.apps.photosgo 1.9.1.597540607 version
+
+https://www.virustotal.com/gui/file/0fd4930e9d9dfa8b1ce5b84aa5443ad42f3f8e800a799bd7b64b8268a5ef431a
