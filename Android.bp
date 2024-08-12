@@ -6,7 +6,7 @@ android_app_import {
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: false,
 	preprocessed: true, 
+	privileged: false,
 	product_specific: true,
 }
